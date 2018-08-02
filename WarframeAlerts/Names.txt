@@ -1,0 +1,18 @@
+80 endo? - AlertFusionBundleSmall
+100 endo? - AlertFusionBundleMedium
+150 endo? - AlertFusionBundleLarge
+Nitain Extract - Alertium
+Void Traces - VoidTearDrop
+Tellurium - Tellurium
+
+
+Loot Detector - PlayerLootRadarAuraMod
+Forma - FormaBlueprint
+Constitution - ConstitutionMod
+Blaze - BlazeMod
+Energy Siphon - EnergySiphonMod
+Corrosive Projection - CorrosiveProjectionMod
+Wildfire - WildfireMod
+Focus Energy - FocusEnergyMod
+Pistol Scavenger - PlayerPistolAmmoAuraMod
+Animal Instinct - SentinelLootRadarEnemyRadarMod

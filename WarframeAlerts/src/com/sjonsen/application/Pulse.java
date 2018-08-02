@@ -74,7 +74,7 @@ public class Pulse {
                     
                     for(int i = 0; i < Alert.getAlerts().size(); i++){
                         for(int j = 0; j < Vars.WANTED.length; j++){
-                            if (Alert.getAlerts().get(i).getItems().contains(Vars.WANTED[j].toLowerCase())){
+                            if (Alert.getAlerts().get(i).getItems().toLowerCase().contains(Vars.WANTED[j].toLowerCase())){
                                 System.out.println("Mission " + i+1 + " contained " + Vars.WANTED[j]);
                                 notifyTray(Vars.WANTED[j], Alert.getAlerts().get(i).getSeed());
                             }
