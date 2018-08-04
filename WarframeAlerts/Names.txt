@@ -16,3 +16,4 @@ Wildfire - WildfireMod
 Focus Energy - FocusEnergyMod
 Pistol Scavenger - PlayerPistolAmmoAuraMod
 Animal Instinct - SentinelLootRadarEnemyRadarMod
+Seeking Fury - ReloadSpeedPunchThroughMod

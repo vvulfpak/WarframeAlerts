@@ -57,7 +57,7 @@ public class Pulse {
                     missionsList.clear();
                     Alert.getAlerts().clear();
                     
-                    entries = inputLine.split("Alerts");
+                    entries = inputLine.split("\"Alerts\"");
                     entries = entries[1].split("Sorties");
                     missions = entries[0].split("MissionInfo");
                     missionsList = new LinkedList<String>(Arrays.asList(missions));
