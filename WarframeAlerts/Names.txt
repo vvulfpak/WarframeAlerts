@@ -4,6 +4,7 @@
 Nitain Extract - Alertium
 Void Traces - VoidTearDrop
 Tellurium - Tellurium
+Oxium - OxiumAlloy
 
 
 Loot Detector - PlayerLootRadarAuraMod
@@ -17,3 +18,10 @@ Focus Energy - FocusEnergyMod
 Pistol Scavenger - PlayerPistolAmmoAuraMod
 Animal Instinct - SentinelLootRadarEnemyRadarMod
 Seeking Fury - ReloadSpeedPunchThroughMod
+Armored Agility - RunSpeedArmorMod
+
+
+Orokin Catalyst Blueprint - OrokinCatalystBlueprint
+
+
+Pistol Riven Mod - LotusPistolRandomModRare

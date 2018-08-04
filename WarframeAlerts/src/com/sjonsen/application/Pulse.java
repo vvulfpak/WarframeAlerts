@@ -24,9 +24,10 @@ public class Pulse {
     static BufferedReader br;
     static String[] entries, missions, temp;
     static List<String> missionsList = new LinkedList<String>();
-    static ArrayList<String> seeds = new ArrayList<String>();
+    public static ArrayList<String> seeds = new ArrayList<String>();
     
     public static void start(){
+        TimedEvent timer = new TimedEvent();
         while(true){
             pulse();
             try {
@@ -94,7 +95,7 @@ public class Pulse {
             System.out.println("No dupe, notifying");
             seeds.add(seed);
         }else {
-            System.out.println("ID is dupe, not notifying again");
+            System.out.println("Seed is dupe, not notifying again");
             return;            
         }
         
